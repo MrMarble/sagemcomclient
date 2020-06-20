@@ -1,6 +1,6 @@
-# SAGEMCOM
+# SAGEMCOM F@st
 
-I wanted to automate some things at my home but my current router does not have any option so I wrote my own python client.
+I wanted to automate some things at my home but my current router (_Sagemcom F@st 5655v2AC_) does not have any option so I wrote my own python client.
 
 Thanks to [@wuseman](https://github.com/wuseman) for his incredible [wiki](https://github.com/wuseman/SAGEMCOM-FAST-5370e-TELIA) about the sagecom router.
 
